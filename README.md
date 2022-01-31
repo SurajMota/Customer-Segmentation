@@ -1,0 +1,1 @@
+# Customer-Segmentation -  It's an complete end to end unsupervised problem. In this we can predict the customer Cluster. As in our data set there was no feature to predict. So we have created the clusters of customers with the help of Kmeans using Elbow method on similar behaviour and then created a cluster feature and have converted the problem into classification problem.
